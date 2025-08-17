@@ -16,7 +16,7 @@ header("Pragma: no-cache");
 <head>
     <meta charset="UTF-8">
     <title>Digital Products</title>
-    <link rel="stylesheet" href="Index.css">
+    <link rel="stylesheet" href="Home.css">
 </head>
 
 <body>
